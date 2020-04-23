@@ -7,4 +7,4 @@ The goal of this analysis is to get a general overview on some operation and per
 
 Findind data about an ecommerce is not an easy task. Luckily, the UCI Machine Learning Repository has made publicly available a dataset containing actual transactions from 2010 and 2011 for an Online Retail business based in the United Kingdom. The main products sold by the company are unique all-occasion giftware. Also, many customers of this e-commerce are wholesalers. This dataset can be found here: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II.
 
-I here share the PySpark code and a report summarizing the main take aways of the analysis.
+I here share the PySpark code and a report summarizing the main take aways of the analysis, which can be found in 1_Ecommerce_analysis_pyspark.
